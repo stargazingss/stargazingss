@@ -17,7 +17,7 @@ I am an undergraduate Computer Science student interested in **Machine Learning 
 ### Tech Stack & Tools
 
 **Languages:**  
-`Python` `C++` `JavaScript` `HTML` `CSS`
+`Python` `MySQL` `C` `Java` `HTML/CSS`
 
 **Machine Learning & Data:**  
 `Scikit-learn` `PyTorch` `Pandas` `NumPy` `Matplotlib`
@@ -71,10 +71,18 @@ I am an undergraduate Computer Science student interested in **Machine Learning 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stargazingss&layout=compact&hide_border=true" height="165"/>
 </p>
 
+---
+
 ### Currently Learning
 
 - Machine Learning Engineering
-- MLOps
+- Deep Learning
+- MLOps & Model Deployment
+- Computer Vision
+- Natural Language Processing
+- Speech Recognition
+- Embedded Systems
+- Operating Systems
 
 ---
 
