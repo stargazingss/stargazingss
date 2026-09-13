@@ -65,10 +65,9 @@ I am an undergraduate Computer Science student interested in **Machine Learning 
 ---
 
 ### GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stargazingss&show_icons=true&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stargazingss&layout=compact&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=stargazingss&show_icons=true&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stargazingss&layout=compact&theme=default" height="165"/>
 </p>
 
 ---
@@ -89,6 +88,3 @@ I am an undergraduate Computer Science student interested in **Machine Learning 
 ### Let's Connect
 
 Feel free to explore my projects and connect with me on [LinkedIn](linkedin.com/in/angelina-jolie-candaya).
-- Model Deployment
-- Computer Vision
-- Natural Language Processing
