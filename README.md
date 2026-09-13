@@ -64,10 +64,11 @@ I am an undergraduate Computer Science student interested in **Machine Learning 
 
 ---
 
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stargazingss&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stargazingss&layout=compact&theme=default" height="165"/>
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-stats-extended.vercel.app/api?username=stargazingss&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=stargazingss&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
